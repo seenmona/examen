@@ -1,4 +1,3 @@
-import * as Yup from "yup";
 import { FormGroup, FormLabel, FormControl, Button } from "react-bootstrap";
 import React, { useState, useEffect } from "react";
 

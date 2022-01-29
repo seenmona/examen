@@ -84,8 +84,8 @@ const JobPostList = () => {
       <Table striped bordered hover>
         <thead>
           <tr>
-            <th>Name</th>
-            <th>Email</th>
+            <th>Descriere</th>
+            <th>Deadline</th>
 
             <th>Action</th>
             <th>Candidates</th>
