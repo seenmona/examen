@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "db": {
+      "username": "root",
+      "password": "",
+      "database": "jobPosts",
+      "dialect": "mysql"
+    },
+    "port": 8081
+  },
+  "prod": {
+    "db": {
+      "username": "root",
+      "password": "",
+      "database": "jobPosts",
+      "dialect": "mysql"
+    },
+    "port": 8081
+  }
+}
